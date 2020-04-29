@@ -5,4 +5,6 @@ ______________
 
 How it looks: 
 
+![mygif](mygif.gif)
+
 
