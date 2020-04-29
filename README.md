@@ -5,6 +5,6 @@ ______________
 
 How it looks: 
 
-![mygif](mygif.gif)
+![mygif](https://media.giphy.com/media/mCJhLYXE7NBoCZuUEn/giphy.gif)
 
 
