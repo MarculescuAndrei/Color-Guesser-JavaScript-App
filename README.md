@@ -5,6 +5,8 @@ ______________
 <p align="center">
 How it looks: 
 <br>
+  <br>
+  <br>
 <img src="https://media.giphy.com/media/mCJhLYXE7NBoCZuUEn/giphy.gif">
 </p>
 
