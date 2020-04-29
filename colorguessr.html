@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ColorGuessr</title>
+  <link href="https://fonts.googleapis.com/css?family=Heebo:800|Montserrat|Roboto:300&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+  <link rel="stylesheet" href="colorguessr.css"></link>
+</head>
+<body>
+
+  <h1>ColorGuessr 🎨
+  <br>
+  <span id ="colorDisplay"> </span>
+  <br>
+  <span class="motto">The all-new challenging color game based on <span id="red">R</span><span id="green">G</span><span id="blue">B</span></span></h1>
+
+  <div id="stripe">
+    <button id="reset">New Colors</button>
+    <span id="message"></span>
+
+    <button id="easyBtn">Easy</button>
+    <button id="hardBtn" class="selected">Hard</button>
+
+  </div>
+  <div id="container">
+    <div class="square"></div>
+    <div class="square"></div>
+    <div class="square"></div>
+    <div class="square"></div>
+    <div class="square"></div>
+    <div class="square"></div>
+  </div>
+  <br>
+  <footer>
+    <a href="https://github.com/MarculescuAndrei"><i class="fab fa-github githublogo" ></i></a>
+  </footer>
+<script type="text/javascript" src="colorguessr.js"></script>
+</body>
+</html>

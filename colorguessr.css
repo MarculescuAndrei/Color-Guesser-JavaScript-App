@@ -1,0 +1,120 @@
+body {
+  background-color: #232323;
+  margin: 0;
+  font-family: 'Heebo', sans-serif;
+}
+
+.square {
+  width: 30%;
+  background: purple;
+  padding-bottom: 30%;
+  float: left;
+  margin: 1.66%;
+  border-radius: 20%;
+  transition: background 0.5s;
+  --webkit-transition:background 0.5s;
+  --moz-transition:background 0.5s;
+}
+
+#container {
+  margin: 25px auto;
+  max-width: 600px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  padding: 25px 0;
+  background-color: #002e59;
+  margin: 0;
+  font-weight: normal;
+  line-height: 1.1;
+  text-shadow: 4px 4px 5px black;
+}
+
+
+#stripe {
+  background-color: white;
+  height: 40px;
+  text-align: center;
+  color: black;
+}
+
+#message{
+  display: inline-block;
+  width: 20%;
+}
+
+.selected {
+  color:white;
+  background: #002e59;
+}
+
+#colorDisplay {
+  text-transform: uppercase;
+  font-size: 180%;
+  padding: 9px 0;
+}
+
+button {
+  border: none;
+  background: none;
+  text-transform: uppercase;
+  height: 100%;
+  font-weight: 700;
+  color: black;
+  letter-spacing: 0.3px;
+  font-size: inherit;
+  transition: all .3s;
+  --webkit-transition:all .3s;
+  --moz-transition:all .3s;
+  outline: none;
+}
+
+button:hover {
+  color:white;
+  background: #002e59;
+}
+
+footer{
+  position: fixed;
+  height: 35px;
+  background-color: #232323;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  height: 50px;
+  margin-top: -50px
+}
+
+.githublogo {
+  width: 100%;
+  position: relative;
+  padding-top: 8.6px;
+  padding-bottom: 20px;
+  text-align: center;
+  color:white;
+
+}
+
+.motto {
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
+  text-shadow: 2px 2px 2px black;
+}
+
+#red {
+  color:red;
+  font-weight: bold;
+}
+
+#green {
+  color:green;
+  font-weight: bold;
+}
+
+#blue {
+  color:blue;
+  font-weight: bold;
+}
