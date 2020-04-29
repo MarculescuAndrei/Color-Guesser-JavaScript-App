@@ -5,7 +5,8 @@ ______________
 <p align="center">
 How it looks: 
 </p>
-<p align="center">
-![mygif](https://media.giphy.com/media/mCJhLYXE7NBoCZuUEn/giphy.gif)
 
-</p>
+<div align="center>
+![mygif](https://media.giphy.com/media/mCJhLYXE7NBoCZuUEn/giphy.gif)
+</div>
+
